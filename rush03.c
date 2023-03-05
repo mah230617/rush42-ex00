@@ -2,8 +2,8 @@ void	ft_putchar(char a);
 
 void	rush(int x, int y)
 {
-	int p;
-	int r;
+	int	p;
+	int	r;
 
 	r = 1;
 	while (r <= y && x > 0)
